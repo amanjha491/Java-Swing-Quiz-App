@@ -45,9 +45,6 @@ A professional, single-runnable desktop quiz application built with Java Swing. 
    ```bash
    java -cp bin QuizApp
    ```
-
-*(Alternatively, you can open the project in your favorite IDE like IntelliJ IDEA or Eclipse and run the `QuizApp.java` file directly).*
-
 ## Architecture Overview
 
 The application uses a component-based structure to separate concerns:
@@ -56,5 +53,21 @@ The application uses a component-based structure to separate concerns:
 - **`panels/QuizPanel.java`**: Handles the quiz logic, question rendering, and score calculation.
 - **`panels/ScoreboardPanel.java`**: Renders a `JTable` containing all the historical quiz results.
 
-## Contributing
-Feel free to open issues or submit pull requests for any bug fixes or feature additions.
+
+## 👨‍💻 Author
+
+**Aman Kumar Jha**  
+Backend Engineer | Java SpringBoot | Microservices  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=36BCF7&center=true&vCenter=true&width=500&lines=Let's+Connect+🚀;Backend+Engineer+%7C+Java+%7C+Microservices" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-kumar-j-14baa4120/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/amanjha491">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
